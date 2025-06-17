@@ -29,8 +29,8 @@ A simple custom web browser built with Python and PyQt5, inspired by popular bro
 1. Clone or download this repository:
 
    ```bash
-   git clone https://github.com/yourusername/omor-browser.git
-   cd omor-browser
+   git clone https://github.com/Alif416/Kairo-Web-Browser.git
+   cd kairo-web-browser
    ```
 
 2. Install dependencies using pip:
